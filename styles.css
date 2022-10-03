@@ -1,0 +1,71 @@
+body {
+    font-size: 10pt;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color: black;
+    line-height: 14pt;
+    margin-left: 14pt;
+    margin-right: 14pt;
+   }
+   h1 {
+    font: 14pt Helvetica;
+    font-weight: bold;
+    line-height: 20pt;
+    margin-top: 00px;
+    margin-bottom: 00px;
+   }
+
+   p {
+    text-align: justify;
+    margin-top: 0px;
+    margin-bottom: 0px;
+   }
+   img {
+    padding: 3pt; 
+    float: right;
+   }
+   a {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration:underline;
+   }
+   a:link, a:visited {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration:underline;
+    color: darkmagenta;
+   }
+   a:hover, a:active {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration:underline;
+    color: navy;
+   }
+   footer {
+    font-size: 9pt;
+    font-style: italic;
+    line-height: 12pt;
+    text-align: center;
+    padding-top: 30pt;
+   }
+   div {
+    margin-top: 5px;
+    margin-bottom: 5px;
+   }
+   article {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    column-count: 3;
+    column-gap: 21px;
+    column-rule-width: 2px;
+    column-rule-style: solid;
+    column-rule-color: blue;
+   }
+   hr {
+    border: 2px solid red;
+
+   }
+   table, tr, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 3px;
+   }
